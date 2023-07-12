@@ -1,0 +1,29 @@
+.login-container{
+  border:none;
+  width: 500px;
+  background-color:rgb(26, 240, 115);
+  border-radius: 14px;
+  height:400px;
+  margin:auto;
+  padding:80px;
+}
+
+.title{
+  font-size: 80px;
+  font-family: Arial;
+}
+
+.content{
+  font-family: Arial;
+  font-size: 18px;
+  
+}
+
+.btn{
+  background-color:white ;
+  padding:15px 27px;
+  border-radius:30px;
+  font-family: Arial;
+  font-size:larger;
+  font-weight: bold;
+}
